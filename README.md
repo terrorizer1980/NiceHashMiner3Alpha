@@ -1,0 +1,1 @@
+# relase files for https://github.com/nicehash/NiceHashMiner/tree/alpha3
